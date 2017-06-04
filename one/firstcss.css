@@ -1,0 +1,26 @@
+body {
+    weight:0 auto;
+}
+#header {
+    background-color: red;
+    height: 60px;
+    margin:0px 60px;
+    
+}
+#container {
+    background-color: yellow;
+    height:500px;
+    margin: 0px 60px; 
+}
+#blue {
+    background-color: blue;
+    height:440px;
+    margin: 0px 60px;
+    
+}
+#green {
+    background-color: green;
+    height:60px;
+    margin: 0px 60px; 
+    
+}

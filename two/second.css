@@ -1,0 +1,38 @@
+body {
+    margin:0px 50px;
+    width:930;
+    height: 782;
+    
+}
+#header{
+    height:123px;
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+    width:310;
+    height:627;
+    float:left;
+    margin:0px;
+    
+}
+#mauve{
+    background-color:darkmagenta;
+    width:310;
+    height:627;
+    float:left;
+    
+}
+#yellow{
+    background-color:yellow;
+    width:310;
+    height:627;
+    float:left;
+    
+}
+#footer{
+    height:150px;
+    background-color:green;
+    padding-top: 627px;
+    
+}
